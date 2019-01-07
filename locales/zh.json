@@ -1,0 +1,75 @@
+{
+  "nav": {
+  },
+  "common": {
+    "win": "赢",
+    "lose": "输",
+    "or": "或者",
+    "payout": "倍",
+    "signup": "注册",
+    "login": "登录",
+    "roll": "投注",
+    "rolling": "投注中…"
+  },
+  "pages": {
+    "sign": {
+      "username_placeholder": "用户名",
+      "password_placeholder": "密码",
+      "login": "登录到 DICEOS",
+      "signup": "注册",
+      "create_free_account": "注册一个帐号",
+      "already_registered": "登录已有帐号"
+    },
+    "dice": {
+      "pane_title_choose_a_number": "选个数字",
+      "pane_title_bet_number": "下注",
+      "pane_title_order": "支付来下注",
+      "switch_item_high": "押大数字",
+      "switch_item_low": "押小数字",
+      "more_than": "大于",
+      "less_than": "小于",
+      "quick_ops_min": "最低",
+      "quick_ops_2x": "2倍",
+      "quick_ops_5x": "5倍",
+      "quick_ops_10x": "10倍",
+      "quick_ops_max": "最高",
+      "empty_hint": "...",
+      "summary_hint_beg": "你有 ",
+      "summary_hint_mid": " 的概率取胜并且获得 ",
+      "summary_hint_end": "",
+      "summary_col_payout": "赔率",
+      "summary_col_payout_unit": "倍",
+      "summary_col_chance": "概率",
+      "summary_col_profit": "获胜奖励",
+      "order_hint": "使用 {app} 扫描二维码",
+      "btn_play_again": "再玩一遍",
+      "btn_go_back": "返回",
+      "btn_paid": "已经付款",
+      "btn_mixin_pay": "使用 Mixin 支付",
+      "record_header_asset": " ",
+      "record_header_time": "时间",
+      "record_header_result": "结果",
+      "record_header_bet": "下注",
+      "record_header_amount": "下注金额",
+      "record_header_reward": "奖励",
+      "status_title_checking": "等待开奖…",
+      "status_title_win": "开奖：{result}，你赢了！",
+      "status_title_lose": "开奖：{result}，你输了!",
+      "status_hint_checking": "如果你已经支付了，请稍候。",
+      "status_hint_win_alt": "打开 Mixin Messenger 可以领取奖励 {reward} {symbol}!",
+      "status_hint_win": "奖励 {reward} {symbol} 会发放到你的余额中!",
+      "status_hint_lose": "祝你下次好运",
+      "pay_way_1": "快速下注",
+      "pay_way_2": "用 Mixin 下注",
+      "order_hint_empty_prefix": "你的余额不足，",
+      "order_hint_sign": "登录或者注册，下注可以获得更多好处。",
+      "order_link_join": "免费加入",
+      "order_link_deposite": "轻触此处充值"
+    }
+  },
+  "seo": {
+    "title": "DICEOS - 快速、公平的加密货币骰子游戏 - 多个数字货币支持 - 滚动你的骰子！",
+    "description": "一个快节奏的，可证明的，基于公平骰子的加密货币赌场。支持多种不同数字货币。实时的下注，实时返现!",
+    "keywords": "公平，骰子游戏，数字货币，赌场游戏，多币种支持，实时下注"
+  }
+}

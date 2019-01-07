@@ -1,0 +1,75 @@
+{
+  "nav": {
+  },
+  "common": {
+    "win": "WIN",
+    "lose": "LOSE",
+    "or": "or",
+    "payout": "x",
+    "signup": "Sign up",
+    "login": "Login",
+    "roll": "Roll",
+    "rolling": "Rolling…"
+  },
+  "pages": {
+    "sign": {
+      "username_placeholder": "Username",
+      "password_placeholder": "Password",
+      "login": "Login to Diceos",
+      "signup": "Sign up",
+      "create_free_account": "Sign up",
+      "already_registered": "Login"
+    },
+    "dice": {
+      "pane_title_choose_a_number": "CHOOSE A NUMBER",
+      "pane_title_bet_number": "BET AMOUNT",
+      "pane_title_order": "PAY TO ROLL",
+      "switch_item_high": "Roll High",
+      "switch_item_low": "Roll Low",
+      "more_than": "More than",
+      "less_than": "Less than",
+      "quick_ops_min": "MIN",
+      "quick_ops_2x": "2x",
+      "quick_ops_5x": "5x",
+      "quick_ops_10x": "10x",
+      "quick_ops_max": "MAX",
+      "empty_hint": "No enough {coin}",
+      "summary_hint_beg": "You have ",
+      "summary_hint_mid": " probability of winning ",
+      "summary_hint_end": "",
+      "summary_col_payout": "Payout",
+      "summary_col_payout_unit": "x",
+      "summary_col_chance": "Chance",
+      "summary_col_profit": "Profit on win",
+      "order_hint": "Scan the QRCode with {app}",
+      "btn_play_again": "Play again",
+      "btn_go_back": "Go back",
+      "btn_paid": "Already Paid",
+      "btn_mixin_pay": "Pay in Mixin",
+      "record_header_asset": " ",
+      "record_header_time": "TIME",
+      "record_header_result": "Result",
+      "record_header_bet": "Bet",
+      "record_header_amount": "Amount",
+      "record_header_reward": "Reward",
+      "status_title_checking": "Checking result…",
+      "status_title_win": "Result: {result}, You WIN!",
+      "status_title_lose": "Result: {result}, You LOSE!",
+      "status_hint_checking": "Wait a moment if you have paid.",
+      "status_hint_win_alt": "Check the Mixin Messenger to claim {reward} {symbol}!",
+      "status_hint_win": "{reward} {symbol} will be sent to your wallet in short time!",
+      "status_hint_lose": "Your predication failed, the result is {result}",
+      "pay_way_1": "Fast Roll",
+      "pay_way_2": "Roll w/ Mixin",
+      "order_hint_empty_prefix": "Your balance is insufficient,",
+      "order_hint_sign": "Login or sign up to ROLL with bonus.",
+      "order_link_join": "Join for FREE",
+      "order_link_deposite": "tap to deposite"
+    }
+  },
+  "seo": {
+    "title": "DICEOS - Fast CLAM Cryptocurrency Dice Game - Multiple coins/tokens support - Roll the Dice!",
+    "description": "Fast paced provably fair dice-based CLAM Cryptocurrency casino. Multiple coins/tokens support. Invest in real time!",
+    "keywords": "CLAM Dice Game, Fair, Multiple coins and token, real-time, Mixin"
+  }
+}

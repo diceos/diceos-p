@@ -1,0 +1,17 @@
+@import "../variables";
+@import "../mixins";
+@import "../builds";
+
+body {
+  background: $color-bg;
+  color: $color-text-major;
+}
+
+@include build-colors('primary', $color-primary);
+@include build-colors('success', $color-success);
+@include build-colors('danger', $color-danger);
+@include build-colors('info', $color-info);
+@include build-colors('text', $color-text);
+@include build-colors('text-major', $color-text-major);
+@include build-colors('text-minor', $color-text-minor);
+@include build-colors('bg', $color-bg);
